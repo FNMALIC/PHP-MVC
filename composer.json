@@ -1,0 +1,14 @@
+{
+    "name": "mvc/framework",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nixon"
+        }
+    ],
+    "require": {}
+}
